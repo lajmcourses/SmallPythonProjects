@@ -25,8 +25,12 @@ duoti vieną atsakymą iš trijų galimų:
 
     
     Funkcija grąžina žodį:
+
         - "Correct", jeigu spėjimas buvo teisingas;
+
         - "Higher", jeigu sugalvotas skaičius yra didesnis už spėjimą;
+
         - "Lower", jeigu sugalvotas skaičius yra mažesnis neis spėjimas.
+
 
 3) Parašykite programą, imituojančią žaidymą "Daugia-Mažiau". Panudokite savo programoje aukščiau parašytą funkciją.
