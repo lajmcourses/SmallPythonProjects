@@ -33,4 +33,4 @@ duoti vieną atsakymą iš trijų galimų:
         - "Lower", jeigu sugalvotas skaičius yra mažesnis neis spėjimas.
 
 
-3) Parašykite programą, imituojančią žaidymą "Daugia-Mažiau". Panudokite savo programoje aukščiau parašytą funkciją.
+3) Parašykite programą, imituojančią žaidymą "Daugiau-Mažiau". Panudokite savo programoje aukščiau parašytą funkciją.
