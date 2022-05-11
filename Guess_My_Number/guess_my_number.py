@@ -24,6 +24,7 @@ if __name__ == "__main__":
     number = create_number()
     attempts = 0
     while attempts < 10:
+        attempts += 1
         guess = make_guess()
         result = guess_processor(number, guess)
         print(result)
