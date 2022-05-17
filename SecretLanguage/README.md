@@ -9,10 +9,15 @@ Pig Latin is a children secret language:
 Translate from Pig Latin into English:
 
    bus
+
    airplane
+
    computer
+
    "Hello, world!"
+
    "I code in Python."
+
    "Why, sometimes I've believed as many as six impossible things before breakfast."
 
 Output translation to file: pig_latin.csv
